@@ -13,6 +13,7 @@ You can add important events so you cna manage your time effectively.
 When the user loads the app in the browser, the current day is displayed at the top of the page. Below the current day, the user can see time slots for standard business hours. 
 
 Each time slot is color coded to indicate whether that tine slot is in the past present or future.
+Grey is in the past, red is for the present, and green is for the future.
 
 The user can click on any time slot to enter text to indicate important events for that time period. 
 
