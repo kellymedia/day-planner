@@ -6,7 +6,7 @@
     font-family: 'Assistant', sans-serif;
     font-size: 16px;
     line-height: 1;
-    background-color: #007180;
+    background-color: #EDEDED;
 
   }
   
@@ -31,11 +31,11 @@
   }
   
   .jumbotron {
+    padding-top: 5%;
     text-align: center;
     background-color: #005462;
     color: #fff;
     border-radius: 0;
-    border-bottom: 10px solid #fff;
   }
   
   .clear-btn {
@@ -43,13 +43,12 @@
     border: 3px solid #6C1D5D;
     color: black;
     padding: 15px;
-    transition-duration: 0.4s;
+    border-radius: 15px;
   }
 
   .clear-btn:hover {
     background-color: #470C39;
     color: white;
-    transition-duration: 0.4s;
   }
 
   .notes{
@@ -64,7 +63,7 @@
   
   .time-slot {
     white-space: pre-wrap;
-    height: 80px;
+    height: 90px;
   }
   
   .hour {
@@ -87,9 +86,9 @@
     width: 15%;
   }
   
-  .save-btn i:hover {
-    font-size: 20px;
-    transition: all .3s ease-in-out;
+  .save-btn:hover {
+    background-color: #4D88B0;
+
   }
   
   .past {
